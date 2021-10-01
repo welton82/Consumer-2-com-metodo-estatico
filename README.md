@@ -1,0 +1,1 @@
+# Consumer-2-com-metodo-estatico
